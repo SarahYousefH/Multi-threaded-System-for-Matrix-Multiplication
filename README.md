@@ -1,7 +1,5 @@
 # Multi-Threaded-System-for-Matrix-Multiplication
 
-%# Matrix Multiplication Using Processes and Threads 💻🔢 % commented for now
-
 ### Overview
 
 This project demonstrates matrix multiplication using both multi-process and multi-threaded approaches, implemented in C. It explores process and thread management through the POSIX API and Pthreads library. The project was developed to analyze the performance trade-offs between the two approaches in terms of execution time and efficiency.
