@@ -30,7 +30,7 @@ These key average values were collected during testing :
 
 | Approach                               | CPU Time (seconds) | Elapsed Time (microseconds) |
 |----------------------------------------|--------------------|-----------------------------|
-| Naive Approach                         | 0.00543818         | 183.885                     |
+| Naive Approach                         | 0.00543818         | 2031.85                     |
 | Multi-Process (4 processes)            | 0.00085626         | 1893.79                     |
 | Multi-Thread Joinable (25 threads)     | 0.00614801         | 751.5                       |
 | Multi-Thread Detachable (25 threads)   | 2.2838E-3          | 401.76                      |
