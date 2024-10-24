@@ -1,4 +1,4 @@
-# Multi-Threaded-System-for-Matrix-Multiplication
+# Parallel Matrix Multiplication with Multi-Threading and Multi-Processing 
 
 ### Overview
 
